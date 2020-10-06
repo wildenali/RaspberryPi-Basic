@@ -14,5 +14,5 @@ camera.annotate_text = "Hiloow"
 sleep(5)
 
 # store image
-camera.capture('/home/pi/image1.jpeg')
+camera.capture('image2.jpeg')      # camera.capture('/home/pi/image1.jpeg')
 camera.stop_preview()
