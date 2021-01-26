@@ -18,6 +18,12 @@
 - GPIO12 (PWM0)	
 - GPIO13 (PWM1)
 
+# PCM PIN	
+- GPIO18 (CLK) / (PWM0)	
+- GPIO19 (FS)	/ (PWM1)
+- GPIO20 (DIN)	
+- GPIO21 (DOUT)	
+
 ## UART PIN	
 - GPIO14 (TXD)	
 - GPIO15 (RXD)	
@@ -32,12 +38,6 @@
 - GPIO2 (SDA)	
 - GPIO3 (SCL)	
 - GPIO7 (SS1/CE1)	
-
-# PCM PIN	
-- GPIO18 (CLK) / (PWM0)	
-- GPIO19 (FS)	/ (PWM1)
-- GPIO20 (DIN)	
-- GPIO21 (DOUT)	
 
 # EEPROM Data	
 - GPIO0	
